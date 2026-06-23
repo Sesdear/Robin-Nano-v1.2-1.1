@@ -5,7 +5,7 @@
 
 # Genric Information (from https://sergey1560.github.io/fb4s_howto/mks_board/)
 <img width="800" height="629" alt="image" src="https://github.com/user-attachments/assets/74817569-40bc-4dee-8a97-ca2414a67e68" />
-<img width="800" height="658" alt="image" src="https://github.com/user-attachments/assets/310244df-0ee8-4f9a-b60e-25d06e076b88" />
+<img width="800" height="658" alt="image" src="robin_nano_v1.2.png" />
 
 
 * МК: STM32F103VET6 72Mhz, 512KB flash, 64KB Ram
