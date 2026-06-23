@@ -1,7 +1,7 @@
 # MKS Robin nano v1.1 and v1.2
 
 # Pinout Diagram
-<img width="2000" height="1399" alt="image" src="https://github.com/user-attachments/assets/ca263918-4234-4548-88e7-4eef0e39456d" />
+<img width="2000" height="1399" alt="image" src="robin_nano_v1.2_pinout_diagram.webp" />
 
 # Genric Information (from https://sergey1560.github.io/fb4s_howto/mks_board/)
 <img width="800" height="629" alt="image" src="https://github.com/user-attachments/assets/74817569-40bc-4dee-8a97-ca2414a67e68" />
